@@ -6,7 +6,7 @@ excerpt: 'With the widespread use of e-commerce, proper oversight and regulatory
 date: 2024-09-07
 venue: 'ICAIL 2023: Nineteenth International Conference on Artificial Intelligence and Law'
 paperurl: 'https://doi.org/10.1145/3594536.3595145'
-citation: "Max Fuchs, Amit Jadhav, Advaith Jaishankar, Caroline Cauffman, and Gerasimos Spanakis. 2023. 'What's wrong with this product?': Detection of product safety issues based on information consumers share online. In Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law (ICAIL '23). Association for Computing Machinery, New York, NY, USA, 397–401. https://doi.org/10.1145/3594536.3595145"
+citation: "Max Fuchs, Amit Jadhav, Advaith Jaishankar, Caroline Cauffman, and Gerasimos Spanakis. 2023. 'What's wrong with this product?': Detection of product safety issues based on information consumers share online. In Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law (ICAIL '23). Association for Computing Machinery, New York, NY, USA, 397–401. [https://doi.org/10.1145/3594536.3595145](https://doi.org/10.1145/3594536.3595145)"
 ---
 
 
