@@ -1,0 +1,6 @@
+---
+title: "IRTM Project"
+collection: portfolio
+---
+
+This project was performed as a part of the Information Retrieval and Text Mining course. In this project, our group applied text mining techniques like Topic modelling, Named Entity recognition and Sentiment Polarity. The dataset was created by scraping the top 100 billboard charts across genres for the last 15 years from Billboard. Then the lyrics were scraped from Genius website. This created dataset was stored in a SQL database. The data was then preprocessed by removing repetitive lyrics, changing slang to standard language, POS tagging and NER. Using NER, we visualized artists who collaborated with each other and what entities were mentioned in their songs. Emotion classification was also done using EmoRoBERTa and scores assigned into one of 28 available emotion labels. Sentiment Analysis was also done to analyze the sentiment polarity of songs. The lyrics were vectorized into Word2Vec and clusters were formed by genre to find songs with similar lyrics. Topic modelling using LDA and BERTopic were also done to find commonalities between the songs. [Github](https://github.com/AlgoCodology/InformationRetrieval-TextMining/tree/main)
